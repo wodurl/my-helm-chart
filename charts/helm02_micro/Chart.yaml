@@ -1,0 +1,7 @@
+# my-helm-chart/charts/helm02_micro/Chart.yaml
+apiVersion: v2
+name: market-app
+description: Market Application Helm Chart for Kubernetes
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
